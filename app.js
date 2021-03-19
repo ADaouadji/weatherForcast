@@ -1,5 +1,5 @@
-const apiKey1 = "18a3d559441d02bb3a4b8e339614ac1f";
-const apiKey2 = "643fafec9f74cdc48bfe5afa6a584105";
+const apiKey1 = "*";
+const apiKey2 = "*";
 
 const form = document.querySelector("form");
 const weatherDetails = document.querySelector(".details");
